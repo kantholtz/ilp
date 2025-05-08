@@ -2,7 +2,7 @@
 name = "ilp"
 version = "0.2.0"
 description = "Using chatbots to do open world knowledge graph completion."
-authors = ["Lukas Walker", "Felix Hamann"]
+authors = ["Anonymous"]
 readme = "README.md"
 
 [tool.poetry.scripts]
