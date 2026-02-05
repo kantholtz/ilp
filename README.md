@@ -1,9 +1,8 @@
 # IRT2 LLM Prompting
 
-Using chatbots to solve open world knowledge graph completion. This repository is used to document the state of the research code used for the publication of the paper [Re-ranking with LLMs for Open-World Knowledge Graph Completion](https://example.com).
+Using chatbots to solve open world knowledge graph completion. This repository is used to document the state of the research code used for the publication of the paper [Re-ranking with LLMs for Open-World Knowledge Graph Completion](https://ebooks.iospress.nl/volumearticle/74625).
 
 - [See detailed experiment results here](https://docs.google.com/spreadsheets/d/1794pSMUGz6si1_FswPXciauxJSQRjqkLJL4WH2JO_2s)
-- [Download the experiment logfiles here](https://example.com)
 
 
 ## Installation
@@ -44,5 +43,12 @@ To reproduce the experiments of the paper, see the `scripts/` directory. The [fi
 If you find our work useful, please consider giving us a cite. You can also always contact [Felix Hamann](https://github.com/kantholtz) for any comments or questions!
 
 ```
-TBA
+@incollection{hamann2025re,
+  title={Re-Ranking with LLMs for Open-World Knowledge Graph Completion},
+  author={Hamann, Felix and Walker, Lukas and Ulges, Adrian},
+  booktitle={Linking Meaning: Semantic Technologies Shaping the Future of AI},
+  pages={54--69},
+  year={2025},
+  publisher={IOS Press}
+}
 ```
